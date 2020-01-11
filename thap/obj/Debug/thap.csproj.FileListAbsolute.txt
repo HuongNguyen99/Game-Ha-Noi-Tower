@@ -1,0 +1,28 @@
+C:\Users\dell\source\repos\thap\thap\bin\Debug\thap.exe.config
+C:\Users\dell\source\repos\thap\thap\bin\Debug\thap.exe
+C:\Users\dell\source\repos\thap\thap\bin\Debug\thap.pdb
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.Properties.Resources.resources
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.exe
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.pdb
+C:\Users\dell\source\repos\thap\thap\obj\Debug\thap.ThapHanoi.resources
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\bin\Debug\thap.exe.config
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\bin\Debug\thap.exe
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\bin\Debug\thap.pdb
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.ThapHanoi.resources
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.Menu_Form.resources
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.Properties.Resources.resources
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.csproj.GenerateResource.cache
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.exe
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.pdb
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nguyen Huong\Documents\Visual Studio 2017\Backup Files\thap\thap\obj\Debug\thap.csproj.ResolveComReference.cache
+D:\Game_Tháp_Hà_Nội_C++\thap\thap\obj\Debug\thap.exe
+D:\Game_Tháp_Hà_Nội_C++\thap\thap\obj\Debug\thap.pdb
